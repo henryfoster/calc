@@ -1,3 +1,3 @@
-def add(test):
-	return test+2
+def add(test, test2):
+	return test + test2
 
